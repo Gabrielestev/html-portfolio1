@@ -1,0 +1,8 @@
+.my-image {
+    border-radius: 50%;
+}
+
+.gradient-background {
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+
+}
